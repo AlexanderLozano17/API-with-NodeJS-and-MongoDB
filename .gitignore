@@ -20,4 +20,4 @@ nodejs/.settings/
 
 
 #enviroments prod
-nodejs/src/enviroments/environments.prod.ts
+nodejs/src/enviroments/enviroments.prod.ts
